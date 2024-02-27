@@ -23,6 +23,11 @@ namespace warfighters_handbook
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("sdadsadasda");
+        }
+        public int QWE()
+        {
+            return 2;
         }
     }
 }
